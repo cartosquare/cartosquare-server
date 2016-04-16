@@ -9,7 +9,6 @@
   "author": "cartosquare-backend",
   "dependencies": {
     "restify": "^2.8.5",
-    "log4js": "^0.6.29",
     "sqlite3": "^3.1.3"
   }
 }
